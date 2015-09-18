@@ -1,4 +1,4 @@
-apt-get install -y gcc g++ python
+#apt-get install -y gcc g++ python
 apt-get install -y gcc g++ python python-dev
 apt-get install -y qt4-dev-tools
 apt-get install -y mercurial
